@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0efca54bccc33f641b9c1ac85a35e1ce
+timeCreated: 1496748570
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYZhongSongJ
+  fontNames:
+  - HYZhongSongJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
